@@ -1,0 +1,6 @@
+- pipeline: mkfnoggvdh
+  events:
+  - type: PUSH
+    refs:
+    - refs/heads/master
+    - uhhsghfqvl
